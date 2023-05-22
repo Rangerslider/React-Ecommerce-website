@@ -1,8 +1,8 @@
 /*------head-----------*/
 .head {
-    background-color: #0f3460;
+    background-color: #06467a;
     padding: 10px 0;
-    color: #fff;
+    color: #ffffff;
   }
   .head i {
     margin-right: 10px;
@@ -104,7 +104,7 @@
     font-weight: 400;
   }
   header ul li a:hover {
-    color: #0c95e4;
+    color: #0f3460;
   }
   
   .open {
@@ -152,7 +152,7 @@
       position: absolute;
       top: 35px;
       right: 20px;
-      color: #0c95e4;
+      color: #0f3460;
       display: block;
       font-size: 25px;
       z-index: 999;
@@ -162,7 +162,7 @@
     }
     .close.home-btn {
       background: linear-gradient(145deg, #e2e8ec, #ffffff);
-      color: #0c95e4;
+      color: #0f3460;
       border-radius: 50%;
       padding: 0;
       width: 60px;

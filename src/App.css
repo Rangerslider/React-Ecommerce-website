@@ -9,10 +9,10 @@ html {
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
 }
 .background {
-  background: #f6f9fc;
+  background: #ffffff;
   padding: 50px 0;
 }
 .container {
@@ -33,7 +33,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 li {
   list-style: none;
@@ -97,7 +97,7 @@ button {
   padding: 0 20px;
 }
 .category .box:hover {
-  background-color: #ffe1e6;
+  background-color: #0e7ec98c;
   cursor: pointer;
 }
 
@@ -218,7 +218,7 @@ button {
 }
 .control-btn .prev:hover,
 .control-btn .next:hover {
-  background: #071094;
+  background: #0f3460;
   color: white;
   cursor: pointer;
 }

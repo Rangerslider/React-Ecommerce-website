@@ -1,5 +1,4 @@
 import React from "react"
-
 const Categories = () => {
   const data = [
     {
@@ -47,6 +46,7 @@ const Categories = () => {
       cateName: "Books",
     },
   ]
+ 
 
   return (
     <>

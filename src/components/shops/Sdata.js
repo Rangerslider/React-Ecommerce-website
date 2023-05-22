@@ -37,14 +37,14 @@ const Sdata = {
       },
       {
         id: 12,
-        cover: "./images/shops/shops-7.png",
+        cover: "./images/shops/shops-5.png",
         name: "Redimi Phone",
         price: "400",
         discount: "20 ",
       },
       {
         id: 13,
-        cover: "./images/shops/shops-8.png",
+        cover: "./images/shops/shops-6.png",
         name: "Xeats Bluetooth earphones",
         price: "60",
         discount: "5 ",
