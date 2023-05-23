@@ -12,7 +12,7 @@ body {
   background-color: rgb(255, 255, 255);
 }
 .background {
-  background: #ffffff;
+  background: #74899f;
   padding: 50px 0;
 }
 .container {
@@ -51,7 +51,7 @@ input,
 button {
   border: none;
   outline: none;
-  background-color: none;
+  background-color: #fff;
 }
 .row {
   width: 50%;
@@ -74,13 +74,13 @@ button {
   width: 90%;
 }
 .category {
-  box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
-  background-color: #fff;
+  box-shadow: #08025f 0px 4px 16px;
+  background-color: #74899f;
   width: 23%;
   height: 510px;
   padding: 15px 0;
   border-radius: 5px;
-  margin-top: 5px;
+  margin-top: 46px;
 }
 .category img {
   width: 30px;
@@ -103,7 +103,7 @@ button {
 
 /*---------category----------*/
 .btn-primary {
-  background: #0f3460;
+  background: #74899f;
   padding: 13px 40px;
   font-weight: bold;
   color: #fff;
@@ -132,11 +132,11 @@ button {
 }
 /*---------product-----------*/
 .product {
-  background: #fff;
+  background: #74899f;
   padding: 20px;
   position: relative;
   border-radius: 8px;
-  box-shadow: rgb(3 0 71 / 9%) 0px 1px 3px;
+  box-shadow: #08025f 0px 1px 3px;
   margin: 10px;
 }
 .product h3 {
@@ -234,7 +234,7 @@ button {
 .heading .heading-right i,
 .heading .heading-right {
   text-align: right;
-  color: grey;
+  color: #0c2a4d;
 }
 /*----- heading -------*/
 .grid {

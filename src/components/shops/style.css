@@ -1,7 +1,7 @@
 
 .shop .category {
     padding: 30px;
-    height: 90vh;
+    height: 64vh;
   }
   .chead h1 {
     font-size: 20px;
@@ -13,7 +13,7 @@
     padding-left: 70px;
   }
   .shop .category .box {
-    background-color: #f6f9fc;
+    background-color: rgba(50, 50, 93, 0.23);
     margin: 15px 0;
     padding: 5px 10px;
     transition: 0.5s;
