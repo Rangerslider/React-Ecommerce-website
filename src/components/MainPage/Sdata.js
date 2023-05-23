@@ -1,27 +1,27 @@
 const Sdata = [
     {
       id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: "/images/SlideCard/slide-1.png",
+      title: "iPhone 12",
+      desc: " A design seen with the iPhone 4 through the iPhone 5S and the first generation iPhone SE..",
+      cover: "/images/SlideCard/slide-7.png",
     },
     {
       id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: "./images/SlideCard/slide-2.png",
+      title: "iPhone 12 Pro",
+      desc: " A design seen with the iPhone 4 through the iPhone 5S and the first generation iPhone SE..",
+      cover: "./images/SlideCard/slide-6.png",
     },
     {
       id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: "./images/SlideCard/slide-3.png",
+      title: "Phone 13 Pro",
+      desc: "With its redesigned lens and powerful autofocus system, the new Ultra Wide camera can focus at just 2 cm — making even the smallest details seem epic. Transform a leaf into abstract art. Capture a caterpillar’s fuzz. Magnify a dewdrop. The beauty of tiny awaits.",
+      cover: "./images/SlideCard/slide-9.png",
     },
     {
       id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: "./images/SlideCard/slide-4.png",
+      title: "iPhone 13",
+      desc: " A design seen with the iPhone 4 through the iPhone 5S and the first generation iPhone SE..",
+      cover: "./images/SlideCard/slide-8.png",
     },
   ]
   export default Sdata

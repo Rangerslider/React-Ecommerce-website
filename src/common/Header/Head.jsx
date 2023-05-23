@@ -6,7 +6,7 @@ const Head = () => {
       <section className='head'>
         <div className='container d_flex'>
           <div className='left row'>
-          <h1>Nuri</h1>
+          <h1> <i className='fa-brands fa-apple'> N u r i</i></h1>
             {/* <i className='fa fa-phone'></i>
             {/* <label> +88012 3456 7894</label>
             <i className='fa fa-envelope'></i>

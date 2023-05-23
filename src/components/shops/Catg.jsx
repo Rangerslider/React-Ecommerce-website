@@ -8,7 +8,7 @@ const Catg = () => {
     },
     {
       cateImg: "./images/category/cat-2.png",
-      cateName: "Samasung",
+      cateName: "MackBook",
     },
     {
       cateImg: "./images/category/cat-1.png",
@@ -24,7 +24,7 @@ const Catg = () => {
     },
     {
       cateImg: "./images/category/cat-2.png",
-      cateName: "Sony",
+      cateName: "Samasung",
     },
   ]
   return (
