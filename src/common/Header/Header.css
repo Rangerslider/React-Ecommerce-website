@@ -121,7 +121,7 @@
     transition: 0.5s;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 1200px) {
     header ul {
       padding-top: 30px;
     }
